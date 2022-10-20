@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div.a{
+    background-color: rgba(0, 0, 0, 0.486);
+}
+div.ab{
+    float: right;
+    font-size: 120%;
+    
+}
+/* div.ab ul li{
+    margin: 10px;
+    padding: 10px;
+} */
